@@ -29,6 +29,52 @@ Chart Type: Bar Chart.
 Objective: Compare total sales across different outlets segmented by fat content.
 Chart Type: Stacked Column Chart.
 
+🔍 FINDINGS (From the Dashboard)
+
+The total sales amount to approximately 1.20M, indicating strong overall business performance.
+
+The average sales value (~141) remains consistent across different outlet types and locations.
+
+Low Fat items slightly outperform Regular items in terms of average sales contribution.
+
+Supermarket Type 1 and Type 3 outlets generate higher average sales compared to grocery stores.
+
+Tier 2 outlets record the highest average sales, followed closely by Tier 3 and Tier 1.
+
+Among item categories, Household, Dairy, and Snack Foods show higher average sales.
+
+Outlets established between 2014–2016 demonstrate a noticeable peak in average sales.
+
+Medium-sized outlets contribute the largest share of average sales compared to small and high-sized outlets.
+
+Customer ratings remain stable, suggesting consistent service quality across outlets.
+
+📊 DASHBOARD RECOMMENDATIONS
+
+Adding a Total Sales Trend (Year-wise) visual to analyze long-term business growth.
+
+Introduced profit or margin KPIs to complement sales-based insights.
+
+Use dynamic slicers for:
+
+Outlet Location Type
+
+Outlet Size
+
+Item Fat Content
+
+Highlight top-performing item types using conditional formatting.
+
+Add tooltip pages for detailed outlet-level and product-level analysis.
+
+Maintain consistent color coding (Low Fat vs Regular) across all visuals for better clarity.
+
+Include a Top 5 / Bottom 5 Outlets visual to quickly identify performance gaps.
+
+Optimize layout by aligning charts evenly to enhance readability and professionalism.
+
+
+
 •	Total Sales by Outlet Establishment
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type: Line Chart.
